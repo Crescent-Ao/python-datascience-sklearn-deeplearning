@@ -1,0 +1,2 @@
+# python-datascience-sklearn-deeplearning
+一个长时间更新的库，把大学以来常见的可视化方法以及介绍python数据科学完整的学习路线
