@@ -1,2 +1,2 @@
 # python-datascience-sklearn-deeplearning
-一个长时间更新的库，把大学以来常见的可视化方法以及介绍python数据科学完整的学习路线
+在未来的很长一段时间里，介绍python数据科学完整的学习路线，以及自我的学习经历。欢迎Fork
